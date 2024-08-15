@@ -1,0 +1,43 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	background-color: #202333;
+	
+}
+
+li, a, button{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+button:hover,
+a:hover {
+    background: #EC4F1B;
+    border: 1px solid #EC4F1B;
+    color: lightpink;
+}
+
+
+nav li{
+	display: inline-block;
+	padding: 0px 10px;
+}
+nav li a{
+	transition: all 0.3s linear;
+	
+}
+nav li a:hover{
+	color: lightpink;
+	font-size: 23px;
+}
+
+
+	
+
+
+
+
+
+
